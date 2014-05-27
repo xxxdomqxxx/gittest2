@@ -1,3 +1,17 @@
 body{
-	background-color: red;
+	background-color: grey;
+}
+
+#menu{
+	background-color: white;
+	color: grey;
+}
+
+#stopka{
+	color: green;
+	border: 1px solid white;
+}
+
+p{
+	color: lightblue;
 }
